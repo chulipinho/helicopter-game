@@ -1,2 +1,2 @@
-# spaceship-game
-Spaceship game developed for the DIO WebDev bootcamp
+# Helicopter Game
+Helicopter game developed for the DIO WebDev bootcamp
